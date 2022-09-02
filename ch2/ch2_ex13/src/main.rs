@@ -10,7 +10,7 @@ It is the same with books.
 What do we seek
 through millions of pages?";
 
-    let mut tags:Vec<usize> = Vec::new();
+    let mut tags:Vec<usize> = Vec::new(); 
     let mut ctx:Vec<Vec<(usize,String)>> =Vec::new();
 
     for (i,line) in haystack.lines().enumerate() {
