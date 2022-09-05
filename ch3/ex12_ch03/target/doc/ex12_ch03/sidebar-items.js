@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["main",""]],"struct":[["File","아마도 파일 시스템에 있을 ’파일’을 나타낸다."]]};

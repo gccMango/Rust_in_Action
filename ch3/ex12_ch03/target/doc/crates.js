@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["ex12_ch03"];
