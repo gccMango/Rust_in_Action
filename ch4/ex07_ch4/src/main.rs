@@ -1,0 +1,32 @@
+use std::rc::Rc;
+use std::cell::RefCell;
+
+#[derive(Debug)]
+struct GroundStation {
+    radio_freq: f64,
+}
+
+fn main () {
+    let base:Rc<RefCell<GroundStation>> = Rc::new(RefCell::new(
+        GroundStation {
+            radio_freq: 87.65,
+        }
+    ));
+
+    println!("base freq: {:?}",base);
+    
+    {
+        let mut base_2 = base.borrow_mut();
+        base_2.radio_freq -= 12.34;
+        println!("base_2 freq: {:?}", base_2);
+    }
+    
+    println!("base freq: {:?}",base);
+    
+    let mut base_3 = base.borrow_mut();
+    base_3.radio_freq += 43.21;
+    
+    println!("base freq: {:?}",base);
+    println!("base_3 freq: {:?}",base_3);
+
+}
