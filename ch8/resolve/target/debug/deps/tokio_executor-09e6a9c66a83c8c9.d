@@ -1,0 +1,11 @@
+D:\Coding\Rust_in_Action\ch8\resolve\target\debug\deps\tokio_executor-09e6a9c66a83c8c9.rmeta: C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.10\src\lib.rs C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.10\src\enter.rs C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.10\src\error.rs C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.10\src\executor.rs C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.10\src\global.rs C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.10\src\park.rs C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.10\src\typed.rs
+
+D:\Coding\Rust_in_Action\ch8\resolve\target\debug\deps\tokio_executor-09e6a9c66a83c8c9.d: C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.10\src\lib.rs C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.10\src\enter.rs C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.10\src\error.rs C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.10\src\executor.rs C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.10\src\global.rs C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.10\src\park.rs C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.10\src\typed.rs
+
+C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.10\src\lib.rs:
+C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.10\src\enter.rs:
+C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.10\src\error.rs:
+C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.10\src\executor.rs:
+C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.10\src\global.rs:
+C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.10\src\park.rs:
+C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\tokio-executor-0.1.10\src\typed.rs:

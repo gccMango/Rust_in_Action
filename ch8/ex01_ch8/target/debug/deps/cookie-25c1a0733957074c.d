@@ -1,0 +1,12 @@
+D:\Coding\Rust_in_Action\ch7\ex11_ch7\target\debug\deps\cookie-25c1a0733957074c.rmeta: C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\lib.rs C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\builder.rs C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\parse.rs C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\jar.rs C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\delta.rs C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\draft.rs
+
+D:\Coding\Rust_in_Action\ch7\ex11_ch7\target\debug\deps\libcookie-25c1a0733957074c.rlib: C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\lib.rs C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\builder.rs C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\parse.rs C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\jar.rs C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\delta.rs C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\draft.rs
+
+D:\Coding\Rust_in_Action\ch7\ex11_ch7\target\debug\deps\cookie-25c1a0733957074c.d: C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\lib.rs C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\builder.rs C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\parse.rs C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\jar.rs C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\delta.rs C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\draft.rs
+
+C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\lib.rs:
+C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\builder.rs:
+C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\parse.rs:
+C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\jar.rs:
+C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\delta.rs:
+C:\Users\rjcks\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.12.0\src\draft.rs:
