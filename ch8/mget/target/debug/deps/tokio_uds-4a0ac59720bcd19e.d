@@ -1,0 +1,13 @@
+/home/gccmango/Coding_learn/Rust_in_Action/ch8/mget/target/debug/deps/tokio_uds-4a0ac59720bcd19e.rmeta: /home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/lib.rs /home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/datagram.rs /home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/frame.rs /home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/incoming.rs /home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/listener.rs /home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/recv_dgram.rs /home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/send_dgram.rs /home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/stream.rs /home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/ucred.rs
+
+/home/gccmango/Coding_learn/Rust_in_Action/ch8/mget/target/debug/deps/tokio_uds-4a0ac59720bcd19e.d: /home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/lib.rs /home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/datagram.rs /home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/frame.rs /home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/incoming.rs /home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/listener.rs /home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/recv_dgram.rs /home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/send_dgram.rs /home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/stream.rs /home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/ucred.rs
+
+/home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/lib.rs:
+/home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/datagram.rs:
+/home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/frame.rs:
+/home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/incoming.rs:
+/home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/listener.rs:
+/home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/recv_dgram.rs:
+/home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/send_dgram.rs:
+/home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/stream.rs:
+/home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/ucred.rs:

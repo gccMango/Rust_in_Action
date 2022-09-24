@@ -1,0 +1,11 @@
+/home/gccmango/Coding_learn/Rust_in_Action/ch8/mget/target/debug/deps/tokio_executor-2177497d46433e8e.rmeta: /home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/lib.rs /home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/enter.rs /home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/error.rs /home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/executor.rs /home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/global.rs /home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/park.rs /home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/typed.rs
+
+/home/gccmango/Coding_learn/Rust_in_Action/ch8/mget/target/debug/deps/tokio_executor-2177497d46433e8e.d: /home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/lib.rs /home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/enter.rs /home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/error.rs /home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/executor.rs /home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/global.rs /home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/park.rs /home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/typed.rs
+
+/home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/lib.rs:
+/home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/enter.rs:
+/home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/error.rs:
+/home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/executor.rs:
+/home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/global.rs:
+/home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/park.rs:
+/home/gccmango/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.10/src/typed.rs:
