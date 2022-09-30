@@ -1,9 +1,9 @@
 fn main() {
-    println!("Hello, world!");
+    let lambda_add = |a,b| { a+b };
 
-    let h = String::from("rust analyzer inlay");
+    assert_eq!(add(4,5),lambda_add(4,5))
+}
 
-    println!("{}", h);
-    
-
+fn add( a: i32, b: i32) -> i32 {
+    a+b
 }
