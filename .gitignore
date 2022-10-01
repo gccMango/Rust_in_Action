@@ -1,2 +1,5 @@
 # target ignore
 */**/target/
+
+# remainder output
+.svg
